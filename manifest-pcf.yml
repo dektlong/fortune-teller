@@ -16,6 +16,5 @@ applications:
   - config-server
   - service-registry
   - circuit-breaker
-#env:
-  # Replace with API URI of target PCF environment
-  #CF_TARGET: https://api.yourpcfenvironment.local
+env:
+ CF_TARGET: https://api.run.pcfone.io
