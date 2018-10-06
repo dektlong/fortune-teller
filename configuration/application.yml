@@ -1,2 +1,2 @@
 fortune:
-  fallbackFortune: Your future is currently unclear. But don't worry, check back in a few minutes...
+  fallbackFortune: <font color="red">Your future is currently unclear. But don't worry, check back in a few minutes...</font>
